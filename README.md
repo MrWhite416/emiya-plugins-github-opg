@@ -1,2 +1,2 @@
 # plug
-这是来自Emiya的插件
+github的opg协议预览插件
